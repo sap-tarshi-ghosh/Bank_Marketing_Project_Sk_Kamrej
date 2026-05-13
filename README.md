@@ -53,7 +53,7 @@ Bank_Marketing_Project/
 ├── Code/
 │   ├── Bank_Marketing_Model.ipynb
 │   ├── BMP_ADASYN.ipynb
-│   └── ADASYN_SHAP_LIME.ipynb
+│   └── ADASYN_SHAP_&_LIME.ipynb
 │
 ├── Dataset/
 │   ├── Bank_Marketing_Full.csv
@@ -61,9 +61,10 @@ Bank_Marketing_Project/
 │
 ├── Results/
 │   ├── Bank_Marketing_Model_Results.xlsx
-│   ├── BMP_ADASYN_Results.xlsx
-│   ├── ADASYN_TOPSIS_Ranking.xlsx
-│   └── ADASYN_Wilcoxon_Test.xlsx
+│   ├── BMP_ADASYN_ALL_Results.xlsx
+│   ├── ADASYN_Friedman_Test_Results.xlsx
+│   ├── ADASYN_TOPSIS_Ranking_Results.xlsx
+│   └── ADASYN_Wilcoxon_Test_Results.xlsx
 │
 └── README.md
 ```
