@@ -51,7 +51,6 @@ Using **Machine Learning + Data Balancing + Explainable AI**, we build a powerfu
 Bank_Marketing_Project/
 │
 ├── Code/
-│   ├── Bank_Marketing_Model.ipynb
 │   ├── BMP_ADASYN.ipynb
 │   └── ADASYN_SHAP_&_LIME.ipynb
 │
@@ -60,7 +59,6 @@ Bank_Marketing_Project/
 │   └── Dataset_Info.md
 │
 ├── Results/
-│   ├── Bank_Marketing_Model_Results.xlsx
 │   ├── BMP_ADASYN_ALL_Results.xlsx
 │   ├── ADASYN_Friedman_Test_Results.xlsx
 │   ├── ADASYN_TOPSIS_Ranking_Results.xlsx
